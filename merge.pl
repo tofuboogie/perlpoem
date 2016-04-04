@@ -2,9 +2,6 @@
 use warnings;
 use strict;
 
-#my @firstfile = $ARGV[0];
-#my @secondfile = $ARGV[1];
-
 open FILE1, "$ARGV[0]";
 open FILE2, "$ARGV[1]";
 
